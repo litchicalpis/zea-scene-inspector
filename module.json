@@ -1,0 +1,13 @@
+{
+  "id": "zea-scene-inspector",
+  "title": "Zea · 场景格信息",
+  "description": "商船四层展开场景与逐格信息查看器：高程、净空、设备、地形、墙门说明及楼梯定位。独立运行，兼容 Foundry VTT v12。",
+  "version": "0.1.0",
+  "authors": [{"name": "Zea"}],
+  "compatibility": {"minimum": "12", "maximum": "12"},
+  "esmodules": ["scripts/main.js"],
+  "styles": ["styles/inspector.css"],
+  "url": "https://github.com/litchicalpis/zea-scene-inspector",
+  "manifest": "https://raw.githubusercontent.com/litchicalpis/zea-scene-inspector/main/module.json",
+  "download": "https://github.com/litchicalpis/zea-scene-inspector/releases/download/v0.1.0/zea-scene-inspector-v0.1.0.zip"
+}
